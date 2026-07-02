@@ -1,1 +1,12 @@
-
+[
+  {
+    "id": "netflix",
+    "title": "Netflix",
+    "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/netflix.mkv"
+  },
+  {
+    "id": "appletv",
+    "title": "Apple TV+",
+    "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/appletv.mkv"
+  }
+]
