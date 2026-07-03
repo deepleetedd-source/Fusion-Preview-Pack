@@ -16,5 +16,17 @@
     "title": "HBO Max",
     "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/hbomax.mp4",
     "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/hbomax.jpeg"
+  },
+  {
+    "id": "751740f7-e75e-44d2-8436-30989f0d09be",
+    "title": "Paramount+",
+    "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/paramount.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/paramount.jpeg"
+  },
+  {
+    "id": "0362ed1d-45cc-477b-ab8e-87e737d2a965",
+    "title": "Prime Video",
+    "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/primevideo.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/primevideo.jpeg"
   }
 ]
