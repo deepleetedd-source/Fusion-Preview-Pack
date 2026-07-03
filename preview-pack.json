@@ -13,8 +13,20 @@
   },
   {
     "id": "8364db69-a74c-42d7-910a-862bfba67bf2",
-    "title": "HBO Max",
+    "title": "Max",
     "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/max.mp4",
     "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/max.png"
+  },
+  {
+    "id": "bd7f852a-5b5c-41f7-8fbf-61a3f3cf1444",
+    "title": "Hulu",
+    "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/hulu.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/hulu.png"
+  },
+  {
+    "id": "f1d1b42f-4198-485a-85d8-6d1f1517acce",
+    "title": "Disney+",
+    "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/disney+.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/disney+.png"
   }
 ]
