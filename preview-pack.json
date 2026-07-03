@@ -4,5 +4,17 @@
     "title": "Netflix",
     "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/netflix.mp4",
     "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/netflix.jpeg"
+  },
+  {
+    "id": "dd182a3d-dc94-43b9-be71-4d7fb5f1a510",
+    "title": "Crunchyroll",
+    "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/crunchyroll.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/crunchyroll.jpeg"
+  },
+  {
+    "id": "8364db69-a74c-42d7-910a-862bfba67bf2",
+    "title": "HBO Max",
+    "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/hbomax.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/hbomax.jpeg"
   }
 ]
