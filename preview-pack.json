@@ -1,14 +1,20 @@
 [
   {
-    "id": "netflix",
+    "id": "978ca4b4-91c4-4790-9c7e-d35ba314b555",
     "title": "Netflix",
     "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/netflix.mp4",
     "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/netflix.png"
   },
   {
-    "id": "appletv",
+    "id": "64d0e002-0248-4cf8-b5d6-123a34373a5f",
     "title": "Apple TV",
     "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/appletv.mp4",
     "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/appletv.png"
+  },
+  {
+    "id": "8364db69-a74c-42d7-910a-862bfba67bf2",
+    "title": "HBO Max",
+    "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/hbomax.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/hbomax.png"
   }
 ]
