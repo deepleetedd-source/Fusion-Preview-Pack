@@ -26,7 +26,19 @@
   {
     "id": "f1d1b42f-4198-485a-85d8-6d1f1517acce",
     "title": "Disney+",
-    "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/disney+.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/disney+.png"
+    "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/disney%2B.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/disney%2B.png"
+  },
+  {
+    "id": "dd182a3d-dc94-43b9-be71-4d7fb5f1a510",
+    "title": "Crunchyroll",
+    "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/crunchyroll.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/crunchyroll.png"
+  },
+  {
+    "id": "0362ed1d-45cc-477b-ab8e-87e737d2a965",
+    "title": "Prime Video",
+    "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/primevideo.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/primevideo.png"
   }
 ]
