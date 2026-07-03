@@ -6,10 +6,22 @@
     "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/netflix.jpeg"
   },
   {
+    "id": "64d0e002-0248-4cf8-b5d6-123a34373a5f",
+    "title": "Apple TV",
+    "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/appletv.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/appletv.jpeg"
+  },
+  {
     "id": "dd182a3d-dc94-43b9-be71-4d7fb5f1a510",
     "title": "Crunchyroll",
     "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/crunchyroll.mp4",
     "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/crunchyroll.jpeg"
+  },
+  {
+    "id": "f1d1b42f-4198-485a-85d8-6d1f1517acce",
+    "title": "Disney+",
+    "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/disney.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/disney.jpeg"
   },
   {
     "id": "8364db69-a74c-42d7-910a-862bfba67bf2",
@@ -18,10 +30,22 @@
     "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/hbomax.jpeg"
   },
   {
+    "id": "bd7f852a-5b5c-41f7-8fbf-61a3f3cf1444",
+    "title": "Hulu",
+    "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/hulu.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/hulu.jpeg"
+  },
+  {
     "id": "751740f7-e75e-44d2-8436-30989f0d09be",
     "title": "Paramount+",
     "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/paramount.mp4",
     "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/paramount.jpeg"
+  },
+  {
+    "id": "36bdb3b0-bfe5-4125-8a1b-ee5ad940f69f",
+    "title": "Peacock",
+    "videoURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/videos/peacock.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/deepleetedd-source/Fusion-Preview-Pack/main/images/peacock.jpeg"
   },
   {
     "id": "0362ed1d-45cc-477b-ab8e-87e737d2a965",
